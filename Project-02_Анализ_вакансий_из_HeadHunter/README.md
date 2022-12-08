@@ -106,7 +106,7 @@
 
 ### 8. Результат
 
-Результаты анализа доступны в [файле]([Project-02_Анализ_вакансий_из_HeadHunter/Project_2_Анализ_вакансий_из_HeadHunter.ipynb](https://github.com/Novkozinin/SF_projects/blob/master/Project-02_%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7_%D0%B2%D0%B0%D0%BA%D0%B0%D0%BD%D1%81%D0%B8%D0%B9_%D0%B8%D0%B7_HeadHunter/Project_2_%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7_%D0%B2%D0%B0%D0%BA%D0%B0%D0%BD%D1%81%D0%B8%D0%B9_%D0%B8%D0%B7_HeadHunter.ipynb))
+Результаты анализа доступны в файле [Project_2_Анализ_вакансий_из_HeadHunter.ipynb](https://github.com/Novkozinin/SF_projects/blob/master/Project-02_%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7_%D0%B2%D0%B0%D0%BA%D0%B0%D0%BD%D1%81%D0%B8%D0%B9_%D0%B8%D0%B7_HeadHunter/Project_2_%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7_%D0%B2%D0%B0%D0%BA%D0%B0%D0%BD%D1%81%D0%B8%D0%B9_%D0%B8%D0%B7_HeadHunter.ipynb))
 
 &uarr; [к оглавлению](#оглавление)
 
