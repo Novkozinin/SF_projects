@@ -90,7 +90,7 @@
 &uarr; [к оглавлению](#оглавление)
 
 ### 7. Дополнительная информация
-  1. Инструменты: Python3, Jupyter Notebook, pandas, базы данных, psycopg2, SQL, PostgreSQL
+  1. Инструменты: Python3, Jupyter Notebook, pandas, базы данных, psycopg2, SQL, Postgre, plotly.express, requests, BeautifulSoup
   2. GitHub не поддерживает отображение интерактивной визуализации в Plotly. Графики, построенные с помощью Plotly, могут не отображаться на странице репозитория.
         >**Решение**: Для всех графиков, построеных с помощью Plotly добавлена дополнительная строка вывода для просмотра в *GitHub*, например:
         ```python
