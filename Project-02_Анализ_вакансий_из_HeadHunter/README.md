@@ -106,7 +106,7 @@
 
 ### 8. Результат
 
-    Результаты анализа доступны в файле [Project_2_Анализ_вакансий_из_HeadHunter.ipynb](https://github.com/Novkozinin/SF_projects/blob/master/Project-02_Анализ_вакансий_из_HeadHunter/Project_2_Анализ_вакансий_из_HeadHunter.ipynb)
+    Результаты анализа доступны в файле [Project_2_Анализ_вакансий_из_HeadHunter](https://github.com/Novkozinin/SF_projects/blob/master/Project-02_Анализ_вакансий_из_HeadHunter/Project_2_Анализ_вакансий_из_HeadHunter.ipynb)
 
 &uarr; [к оглавлению](#оглавление)
 
