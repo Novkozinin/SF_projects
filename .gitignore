@@ -130,6 +130,7 @@ dmypy.json
 
 # Large size file
 dst-3.0_16_1_hh_database.csv
+hotels.csv
 
 # .DS_Store ignore
 .DS_Store
